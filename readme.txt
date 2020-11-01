@@ -1,0 +1,1 @@
+pip install Django &&pip install django-taggit&&pip install django-taggit-templatetags2&&pip install django-widget-tweaks&&pip install Pillow&&pip install pytz&&pip install -U pip setuptools wheel&&pip install pyopenssl ndg-httpsclient pyasn1
